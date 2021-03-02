@@ -1,0 +1,9 @@
+obj/
+Properties/
+Resources/
+*.config
+*.resx
+*.csproj
+bin/Release/
+bin/Debug/*.exe.config
+bin/Debug/*.pdb

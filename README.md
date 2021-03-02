@@ -8,6 +8,7 @@
 The application contains 4 mini-games aimed at improving psychomotor skills (among others, to improve eye-hand coordination and response to acoustic stimuli).
 
 * Menu:
+
 ![Menu](./images/menu.png)
 
 * Game 1:

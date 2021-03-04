@@ -26,7 +26,7 @@ The application generates a sound and the user's task is to find and press the f
 
 * Game 4:
 The user's task is to move the boy using the keyboard (with the 'a' and 'd' keys) and catch the healthy food for which he gets points. 
-The user has 3 lives. After catching junk food, the user loses a life. The game aned when the user loses all lives.
+The user has 3 lives. After catching junk food, the user loses a life. The game ends when the user has lost all lives.
 ![Game4](./images/Game4.gif)
 
 ## Technologies
